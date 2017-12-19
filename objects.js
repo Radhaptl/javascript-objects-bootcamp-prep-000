@@ -1,3 +1,4 @@
 const playlist = {
-  camila cabelleo
+  camila cabello : "Havana",
+  
 }
