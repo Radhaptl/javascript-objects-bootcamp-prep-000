@@ -1,1 +1,3 @@
-const playlist = 
+const playlist = {
+  camila
+}
