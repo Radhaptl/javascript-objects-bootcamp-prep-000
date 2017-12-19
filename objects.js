@@ -1,4 +1,5 @@
-var playlist = 
-  camila cabello : 'Havana'
-  taylor swift : 'Ready for it?'
+var songs = playlist;
+
+const playlist = { camilaCabello: 'Havana',
+  taylorSwift: 'Ready for it?'};
 
